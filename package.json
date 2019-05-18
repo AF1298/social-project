@@ -1,5 +1,5 @@
 {
-  "name": "single-spa-examples",
+  "name": "social-project",
   "description": "Hello World ..!!",
   "scripts": {
     "start": "concurrently \"webpack-dev-server\" \"json-server --port 5001 ./mock_server/data/template.json\" \"json-server --port 5000 ./mock_server/data/people.json\"",

@@ -1,33 +1,21 @@
-# single-spa-examples
-https://single-spa.surge.sh
+# social-project
 
-This is an example of examples on how to use [single-spa](https://github.com/joeldenning/single-spa) in a variety of contexts. If you're looking for a simpler example that's just a webpack starter for single-spa, try out [simple-single-spa-webpack-example](https://github.com/joeldenning/simple-single-spa-webpack-example). Right now there are examples with the following technologies:
-
-- React
-- AngularJS
-- Angular
-- react-router
-- angular-ui-router
-- Webpack
-- Babel
-- Vue
-- Svelte
-- Ember
-- Inferno
-- Preact
-- CycleJS
-
-## View the demo!
-A [demo is live](http://single-spa.surge.sh) on surge.sh.
+# Author : Aidil Febrian
 
 ## How to get the examples running locally
 ```bash
-git clone git@github.com:CanopyTax/single-spa-examples.git
-cd single-spa-examples
+git clone https://github.com/AF1298/social-project
+cd social-project
 
-# Install yarn at https://yarnpkg.com/lang/en/docs/install/
+# install package & start project using yarn
 yarn
 yarn build
 yarn start
-open http://localhost:8080
 ```
+
+# install package & start project using npm
+
+npm i
+npm start
+
+# open http://localhost:8080

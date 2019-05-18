@@ -1,0 +1,124 @@
+{
+  "people": [
+    {
+      "name": "Ucok Biji",
+      "born": "69-69-1669",
+      "address": "Jl. gantung",
+      "gender": "Ganda",
+      "dad": "joko",
+      "mom": "suminem",
+      "status": "Ga Jelas",
+      "key": "000015",
+      "code": "000015",
+      "id": "15"
+    },
+    {
+      "name": "Ucok Gantung",
+      "born": "69-69-1669",
+      "address": "Jl. gantung",
+      "gender": "Ganda",
+      "dad": "joko",
+      "mom": "suminem",
+      "status": "Ga Jelas",
+      "key": "000016",
+      "code": "000016",
+      "id": "16"
+    },
+    {
+      "name": "Ucok Gantung",
+      "born": "69-69-1669",
+      "address": "Jl. gantung",
+      "gender": "Ganda",
+      "dad": "",
+      "mom": "suminem",
+      "status": "Ga Jelas",
+      "key": "000017",
+      "code": "000017",
+      "id": "17"
+    },
+    {
+      "name": "Ucok Gantung",
+      "born": "69-69-1669",
+      "address": "Jl. gantung",
+      "gender": "Ganda",
+      "dad": "joko",
+      "mom": "suminem",
+      "status": "Ga Jelas",
+      "key": "000018",
+      "code": "000018",
+      "id": "18"
+    },
+    {
+      "name": "Ucok Gantung",
+      "born": "69-69-1669",
+      "address": "Jl. gantung",
+      "gender": "Ganda",
+      "dad": "joko",
+      "mom": "suminem",
+      "status": "Ga Jelas",
+      "key": "000019",
+      "code": "000019",
+      "id": "19"
+    },
+    {
+      "name": "Ucok Gantung",
+      "born": "69-69-1669",
+      "address": "Jl. gantung",
+      "gender": "Ganda",
+      "dad": "joko",
+      "mom": "suminem",
+      "status": "Ga Jelas",
+      "key": "000020",
+      "code": "000020",
+      "id": "20"
+    },
+    {
+      "name": "Ucok Gantung",
+      "born": "69-69-1669",
+      "address": "Jl. gantung",
+      "gender": "Ganda",
+      "dad": "joko",
+      "mom": "suminem",
+      "status": "Ga Jelas",
+      "key": "000021",
+      "code": "000021",
+      "id": "21"
+    },
+    {
+      "name": "Ucok Gantung",
+      "born": "69-69-1669",
+      "address": "Jl. gantung",
+      "gender": "Ganda",
+      "dad": "joko",
+      "mom": "suminem",
+      "status": "Ga Jelas",
+      "key": "000022",
+      "code": "000022",
+      "id": "22"
+    },
+    {
+      "name": "Ucok Gantung",
+      "born": "69-69-1669",
+      "address": "Jl. gantung",
+      "gender": "Ganda",
+      "dad": "joko",
+      "mom": "suminem",
+      "status": "Ga Jelas",
+      "key": "000023",
+      "code": "000023",
+      "id": "23"
+    },
+    {
+      "name": "Ucok Gantung",
+      "born": "69-69-1669",
+      "address": "Jl. gantung",
+      "gender": "Ganda",
+      "dad": "joko",
+      "mom": "suminem",
+      "status": "Ga Jelas",
+      "key": "000025",
+      "code": "000025",
+      "id": "25"
+    }
+  ]
+}

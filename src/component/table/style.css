@@ -1,0 +1,16 @@
+
+.iconEdit {
+  color: deepskyblue;
+  margin-right: 10px;
+}
+.iconDelete {
+  color: crimson;
+}
+
+.iconDelete, .iconEdit {
+  font-size: 16px;
+}
+
+.iconDelete:hover, .iconEdit:hover {
+  cursor: pointer;
+}

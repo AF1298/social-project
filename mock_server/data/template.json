@@ -1,0 +1,109 @@
+{ 
+  "template": {
+    "column": [
+        {
+          "title": "Code",
+          "dataIndex": "code",
+          "width": 100
+        },
+        {
+          "title": "Name",
+          "dataIndex": "name",
+          "width": 200
+        },
+        {
+          "title": "Birthday",
+          "dataIndex": "born",
+          "width": 200
+        },
+        {
+          "title": "Address",
+          "dataIndex": "address",
+          "width": 250
+        },
+        {
+          "title": "Gender",
+          "dataIndex": "gender",
+          "width": 120
+        },
+        {
+          "title": "Son Of",
+          "width": 400,
+          "child": [
+            {
+              "title": "Dad",
+              "dataIndex": "dad",
+              "width": 200
+            },
+            {
+              "title": "Mom",
+              "dataIndex": "mom",
+              "width": 200
+            }
+          ]
+        },
+        {
+          "title": "Status",
+          "dataIndex": "status",
+          "width": 150
+        },
+        {
+          "title": "Action",
+          "dataIndex": "action",
+          "width": 100,
+          "fixed": "right"
+        }
+      ],
+    "form": [
+        {
+          "title": "Name",
+          "index": "name",
+          "type": "text",
+          "required": true,
+          "message": "Field Name cannot be null !!!"
+        },
+        {
+          "title": "Birthday",
+          "index": "born",
+          "type": "text",
+          "required": true,
+          "message": "Field Birthday cannot be null !!!"
+        },
+        {
+          "title": "Address",
+          "index": "address",
+          "type": "text",
+          "required": true,
+          "message": "Field Address cannot be null !!!"
+        },
+        {
+          "title": "Gender",
+          "index": "gender",
+          "type": "text",
+          "required": true,
+          "message": "Field Gender cannot be null !!!"
+        },
+        {
+          "title": "Dad",
+          "index": "dad",
+          "type": "text",
+          "required": false,
+          "message": ""
+        },
+        {
+          "title": "Mom",
+          "index": "mom",
+          "type": "text",
+          "required": false,
+          "message": ""
+        },
+        {
+          "title": "Status",
+          "index": "status",
+          "type": "text",
+          "required": false,
+          "message": ""
+        }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<title>TODO APP</title>
+    <script src="/build/common.js"></script>
+		<script src="/build/main.js"></script>
+		<style>
+			#navbar{
+				background-color: coral;
+			}
+			#parent{
+				padding: 7px 0;
+				height: 50px;
+			}
+			#child{
+				padding: 0 10px;
+				font-size: 26px;
+				float: left;
+				font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+				font-weight: bold;
+			}
+			#child:last-child{
+				float: right;
+			}
+			li,a{
+				list-style-type: none;
+				text-decoration:  none;
+			}
+		
+		</style>
+	</head>
+	<body>
+		<div id="navbar"></div>
+		<div id="main"></div>
+	</body>
+	<script>
+		 setTimeout(
+        console.log.bind(console, '%cTODO Application is created by Aidil Febrian            ',
+          'color: darkgreen; font-size: 32px; font-weight: bold; background: url(http://' + window.location.host +
+          '/logoDKT.png); background-size: 20px 32px; background-position: right center; background-repeat: no-repeat'
+        ), 0)
+	</script>
+</html>

@@ -11,11 +11,10 @@ cd social-project
 yarn
 yarn build
 yarn start
-```
 
 # install package & start project using npm
 
 npm i
 npm start
-
+```
 # open http://localhost:8080
